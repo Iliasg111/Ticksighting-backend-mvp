@@ -1,7 +1,7 @@
 Video : https://youtu.be/AVJ_4ycXv5A
 
 
-# 🕷️ TickMVP – Tick Sighting Backend (Java)
+ TickMVP – Tick Sighting Backend (Java)
 
 A lightweight, dependency-free Java backend that ingests tick sighting data from CSV, exposes analytics endpoints, generates hotspot maps, and includes a simple prediction model.
 
@@ -13,7 +13,7 @@ This project is designed to be **easy to run**, **framework-free**, and **fully 
 
 
 
-# 📁 Project Structure
+� Project Structure
 
 tick-simple-crossplatform/
 tick-plain-http/
@@ -32,7 +32,7 @@ This is the folder you MUST import into Eclipse.
 
 ---
 
-# 🚀 How to Run the Project in Eclipse (Important)
+How to Run the Project in Eclipse 
 
 ### 1. Download the repository  
 Click **Code → Download ZIP** and unzip the folder.
@@ -81,7 +81,7 @@ Open any browser:
 
 ---
 
-# 🌐 API Endpoints
+ API Endpoints
 
 ### **GET /sightings**
 Returns raw tick sighting dataset.
@@ -97,7 +97,7 @@ Outputs a simple trend-based prediction of future tick activity.
 
 ---
 
-# 🔧 Architecture Decisions
+ Architecture Decisions
 
 ### ✔ Plain Java  
 No frameworks, no Maven, no external dependencies.  
