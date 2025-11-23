@@ -126,7 +126,7 @@ Prevents crashes and returns useful error messages.
 
 ---
 
-# 📊 How the System Consumes & Presents Data
+#  How the System Consumes & Presents Data
 
 ### **1. Data Loading**  
 On startup, the server reads:
@@ -158,7 +158,7 @@ Example `/species` output:
 
 ---
 
-# 💡 Future Improvements (If More Time Provided)
+# Future Improvements (If More Time Provided)
 
 ### 1️⃣ Convert to Maven/Gradle project  
 Better build structure and dependency management.
