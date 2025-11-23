@@ -1,3 +1,6 @@
+Video : https://youtu.be/AVJ_4ycXv5A
+
+
 TickSightings Backend (MVP)
 
 A lightweight Java HTTP server for recording and analysing tick sightings.
@@ -79,3 +82,7 @@ No external database required
 Java 8+
 
 Eclipse or any IDE supporting running plain Java applications
+
+
+
+
