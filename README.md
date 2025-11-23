@@ -37,6 +37,18 @@ Open src/TickServer.java
 
 Run it using Run As → Java Application
 
+if that does not work or it says 'no projects found' do this:
+
+1. Start Eclipse.
+2. File -> open projects from file system
+3. select the extracted ZIP contents
+4. select tick-plain-HTTP
+
+Open src/TickServer.java
+
+Run it using Run As → Java Application
+
+
 Server starts at:
 
 http://localhost:8080
