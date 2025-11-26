@@ -167,7 +167,7 @@ Better build structure and dependency management.
 Cleaner routing, built-in JSON, improved error handling.
 
 ### 3️⃣ Move from CSV to a real database  
-Use PostgreSQL or MongoDB for scalability.
+Use MySQL or MongoDB for scalability.
 
 ### 4️⃣ More advanced prediction model  
 Use time-series or machine learning for better forecasts.
